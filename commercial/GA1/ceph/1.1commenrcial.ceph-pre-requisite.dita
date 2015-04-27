@@ -25,6 +25,7 @@
  <!--./commercial/GA1/ceph/1.1commenrcial.ceph-pre-requisite.md-->
  <!--permalink: /helion/openstack/1.1/ceph/prerequisite/--></p>
 <p> <xref href="../../../commercial/GA1/ceph/1.1commerical.services-ceph-archref.dita/" >◀ PREV</xref> | <xref href="./commercial/GA1/1.1commercial.index.dita/" >▲ UP</xref> | <xref href="./commercial/GA1/1.1commercial.install-GA-overview.dita" >NEXT ▶</xref> </p>
+    <p>&lt;!-- examine syntax of breadcrumbs - especially UP --></p>
 <p>Before you begin the Ceph installation process, take a few minutes to read this page for information about:</p>
 <ul>
 <li>
