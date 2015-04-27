@@ -14,61 +14,116 @@
 			</vrmlist>
 		</prodinfo>
 	</topicmeta>
- <!--permalink: /--> <topicref href="publiccloud/index.dita"/> 
- <!--permalink: /als/v1/--> <topicref href="devplatform/helion/1.0index.dita"/> 
- <!--permalink: /als/v1/admin/--> <topicref href="devplatform/helion/admin/1.0index.dita"/> 
- <!--permalink: /als/v1/admin/best-practices/--> <topicref href="devplatform/helion/admin/best-practices/1.0index.dita"/> 
- <!--permalink: /als/v1/admin/best-practices/logging-examples/--> <topicref href="devplatform/helion/admin/best-practices/1.0logging-examples.dita"/> 
- <!--permalink: /als/v1/admin/cluster/--> <topicref href="devplatform/helion/admin/cluster/1.0index.dita"/> 
- <!--permalink: /als/v1/admin/cluster/autoscaling/--> <topicref href="devplatform/helion/admin/cluster/1.0autoscaling.dita"/> 
- <!--permalink: /als/v1/admin/cluster/cloud-init/--> <topicref href="devplatform/helion/admin/cluster/1.0cloud-init.dita"/> 
- <!--permalink: /als/v1/admin/cluster/external-db/--> <topicref href="devplatform/helion/admin/cluster/1.0external-db.dita"/> 
- <!--permalink: /als/v1/admin/cluster/harbor/--> <topicref href="devplatform/helion/admin/cluster/1.0harbor.dita"/> 
- <!--permalink: /als/v1/admin/console/--> <topicref href="devplatform/helion/admin/console/1.0index.dita"/> 
- <!--permalink: /als/v1/admin/console/app-store/--> <topicref href="devplatform/helion/admin/console/1.0app-store.dita"/> 
- <!--permalink: /als/v1/admin/console/customize/--> <topicref href="devplatform/helion/admin/console/1.0customize.dita"/> 
- <!--permalink: /als/v1/admin/reference/add-service/--> <topicref href="devplatform/helion/admin/reference/1.0add-service.dita"/> 
- <!--permalink: /als/v1/admin/reference/architecture/--> <topicref href="devplatform/helion/admin/reference/1.0architecture.dita"/> 
- <!--permalink: /als/v1/admin/reference/groups/--> <topicref href="devplatform/helion/admin/reference/1.0groups.dita"/> 
- <!--permalink: /als/v1/admin/reference/kato-ref/--> <topicref href="devplatform/helion/admin/reference/1.0kato-ref.dita"/> 
- <!--permalink: /als/v1/admin/reference/known-issues/--> <topicref href="devplatform/helion/admin/reference/1.0known-issues.dita"/> 
- <!--permalink: /als/v1/admin/reference/troubleshoot/--> <topicref href="devplatform/helion/admin/reference/1.0troubleshoot.dita"/> 
- <!--permalink: /als/v1/admin/server/--> <topicref href="devplatform/helion/admin/server/1.0index.dita"/> 
- <!--permalink: /als/v1/admin/server/aok/--> <topicref href="devplatform/helion/admin/server/1.0aok.dita"/> 
- <!--permalink: /als/v1/admin/server/configuration/--> <topicref href="devplatform/helion/admin/server/1.0configuration.dita"/> 
- <!--permalink: /als/v1/admin/server/docker/--> <topicref href="devplatform/helion/admin/server/1.0docker.dita"/> 
- <!--permalink: /als/v1/admin/server/logging/--> <topicref href="devplatform/helion/admin/server/1.0logging.dita"/> 
- <!--permalink: /als/v1/admin/server/operations/--> <topicref href="devplatform/helion/admin/server/1.0operations.dita"/> 
- <!--permalink: /als/v1/admin/server/router/--> <topicref href="devplatform/helion/admin/server/1.0router.dita"/> 
- <!--permalink: /als/v1/admin/server/upgrade/--> <topicref href="devplatform/helion/admin/server/1.0upgrade.dita"/> 
- <!--permalink: /als/v1/user/--> <topicref href="devplatform/helion/user/1.0index.dita"/> 
- <!--permalink: /als/v1/user/client/--> <topicref href="devplatform/helion/user/client/1.0index.dita"/> 
- <!--permalink: /als/v1/user/console/--> <topicref href="devplatform/helion/user/console/1.0index.dita"/> 
- <!--permalink: /als/v1/user/deploy/--> <topicref href="devplatform/helion/user/deploy/1.0index.dita"/> 
- <!--permalink: /als/v1/user/deploy/app-debug/--> <topicref href="devplatform/helion/user/deploy/1.0app-debug.dita"/> 
- <!--permalink: /als/v1/user/deploy/app-logs/--> <topicref href="devplatform/helion/user/deploy/1.0app-logs.dita"/> 
- <!--permalink: /als/v1/user/deploy/buildpack/--> <topicref href="devplatform/helion/user/deploy/1.0buildpack.dita"/> 
- <!--permalink: /als/v1/user/deploy/languages/clojure/--> <topicref href="devplatform/helion/user/deploy/languages/1.0clojure.dita"/> 
- <!--permalink: /als/v1/user/deploy/languages/go/--> <topicref href="devplatform/helion/user/deploy/languages/1.0go.dita"/> 
- <!--permalink: /als/v1/user/deploy/languages/java/--> <topicref href="devplatform/helion/user/deploy/languages/1.0java.dita"/> 
- <!--permalink: /als/v1/user/deploy/languages/node/--> <topicref href="devplatform/helion/user/deploy/languages/1.0node.dita"/> 
- <!--permalink: /als/v1/user/deploy/languages/php/--> <topicref href="devplatform/helion/user/deploy/languages/1.0php.dita"/> 
- <!--permalink: /als/v1/user/deploy/languages/ruby/--> <topicref href="devplatform/helion/user/deploy/languages/1.0ruby.dita"/> 
- <!--permalink: /als/v1/user/deploy/manifestyml/--> <topicref href="devplatform/helion/user/deploy/1.0manifestyml.dita"/> 
- <!--permalink: /als/v1/user/deploy/newrelic/--> <topicref href="devplatform/helion/user/deploy/1.0newrelic.dita"/> 
- <!--permalink: /als/v1/user/deploy/orgs-spaces/--> <topicref href="devplatform/helion/user/deploy/1.0orgs-spaces.dita"/> 
- <!--permalink: /als/v1/user/deploy/other-frameworks/--> <topicref href="devplatform/helion/user/deploy/1.0other-frameworks.dita"/> 
- <!--permalink: /als/v1/user/deploy/stackatoyml/--> <topicref href="devplatform/helion/user/deploy/1.0stackatoyml.dita"/> 
- <!--permalink: /als/v1/user/quick-start/--> <topicref href="devplatform/helion/user/quick-start/1.0index.dita"/> 
- <!--permalink: /als/v1/user/reference/client-ref/--> <topicref href="devplatform/helion/user/reference/1.0client-ref.dita"/> 
- <!--permalink: /als/v1/user/reference/environment/--> <topicref href="devplatform/helion/user/reference/1.0environment.dita"/> 
- <!--permalink: /als/v1/user/reference/glossary/--> <topicref href="devplatform/helion/user/reference/1.0glossary.dita"/> 
- <!--permalink: /als/v1/user/reference/troubleshoot/--> <topicref href="devplatform/helion/user/reference/1.0troubleshoot.dita"/> 
- <!--permalink: /als/v1/user/services/data-services/--> <topicref href="devplatform/helion/user/services/1.0data-services.dita"/> 
- <!--permalink: /als/v1/user/services/filesystem/--> <topicref href="devplatform/helion/user/services/1.0filesystem.dita"/> 
- <!--permalink: /als/v1/user/services/memcached/--> <topicref href="devplatform/helion/user/services/1.0memcached.dita"/> 
- <!--permalink: /als/v1/user/services/port-service/--> <topicref href="devplatform/helion/user/services/1.0port-service.dita"/> 
- <!--permalink: /als/v1/user/services/user-provided/--> <topicref href="devplatform/helion/user/services/1.0user-provided.dita"/> 
+ <!--permalink: /--> <topicref href="publiccloud/index.dita">
+  <topicref href="devplatform/helion/admin/cluster/1.0external-db.dita"/>
+  <topicref href="devplatform/helion/admin/cluster/1.0harbor.dita"/>
+  <topicref href="devplatform/helion/admin/console/1.0index.dita"/>
+  <topicref href="devplatform/helion/admin/console/1.0app-store.dita"/>
+  <topicref href="devplatform/helion/admin/console/1.0customize.dita"/>
+  <topicref href="devplatform/helion/admin/reference/1.0add-service.dita"/>
+  <topicref href="devplatform/helion/admin/reference/1.0architecture.dita"/>
+  <topicref href="devplatform/helion/admin/reference/1.0groups.dita"/>
+  <topicref href="devplatform/helion/admin/reference/1.0kato-ref.dita"/>
+  <topicref href="devplatform/helion/admin/reference/1.0known-issues.dita"/>
+  <topicref href="devplatform/helion/admin/reference/1.0troubleshoot.dita"/>
+  <topicref href="devplatform/helion/admin/server/1.0index.dita"/>
+  <topicref href="devplatform/helion/admin/server/1.0aok.dita"/>
+  <topicref href="devplatform/helion/admin/server/1.0configuration.dita"/>
+  <topicref href="devplatform/helion/admin/server/1.0docker.dita"/>
+  <topicref href="devplatform/helion/admin/server/1.0logging.dita"/>
+  <topicref href="devplatform/helion/admin/server/1.0operations.dita"/>
+  <topicref href="devplatform/helion/admin/server/1.0router.dita"/>
+  <topicref href="devplatform/helion/admin/server/1.0upgrade.dita"/>
+  <topicref href="devplatform/helion/user/1.0index.dita"/>
+  <topicref href="devplatform/helion/user/client/1.0index.dita"/>
+  <topicref href="devplatform/helion/user/console/1.0index.dita"/>
+  <topicref href="devplatform/helion/user/deploy/1.0index.dita"/>
+  <topicref href="devplatform/helion/user/deploy/1.0app-debug.dita"/>
+  <topicref href="devplatform/helion/user/deploy/1.0app-logs.dita"/>
+  <topicref href="devplatform/helion/user/deploy/1.0buildpack.dita"/>
+  <topicref href="devplatform/helion/user/deploy/languages/1.0clojure.dita"/>
+  <topicref href="devplatform/helion/user/deploy/languages/1.0go.dita"/>
+  <topicref href="devplatform/helion/user/deploy/languages/1.0java.dita"/>
+  <topicref href="devplatform/helion/user/deploy/languages/1.0node.dita"/>
+  <topicref href="devplatform/helion/user/deploy/languages/1.0php.dita"/>
+  <topicref href="devplatform/helion/user/deploy/languages/1.0ruby.dita"/>
+  <topicref href="devplatform/helion/user/deploy/1.0manifestyml.dita"/>
+  <topicref href="devplatform/helion/user/deploy/1.0newrelic.dita"/>
+  <topicref href="devplatform/helion/user/deploy/1.0orgs-spaces.dita"/>
+  <topicref href="devplatform/helion/user/deploy/1.0other-frameworks.dita"/>
+  <topicref href="devplatform/helion/user/deploy/1.0stackatoyml.dita"/>
+  <topicref href="devplatform/helion/user/quick-start/1.0index.dita"/>
+  <topicref href="devplatform/helion/user/reference/1.0client-ref.dita"/>
+  <topicref href="devplatform/helion/user/reference/1.0environment.dita"/>
+  <topicref href="devplatform/helion/user/reference/1.0glossary.dita"/>
+  <topicref href="devplatform/helion/user/reference/1.0troubleshoot.dita"/>
+  <topicref href="devplatform/helion/user/services/1.0data-services.dita"/>
+  <topicref href="devplatform/helion/user/services/1.0filesystem.dita"/>
+  <topicref href="devplatform/helion/user/services/1.0memcached.dita"/>
+  <topicref href="devplatform/helion/user/services/1.0port-service.dita"/>
+  <topicref href="devplatform/helion/user/services/1.0user-provided.dita"/>
+  <topicref href="devplatform/helion/admin/cluster/1.0cloud-init.dita"/>
+  <topicref href="devplatform/helion/admin/best-practices/1.0index.dita"/>
+  <topicref href="devplatform/helion/admin/best-practices/1.0logging-examples.dita"/>
+  <topicref href="devplatform/helion/admin/cluster/1.0index.dita"/>
+  <topicref href="devplatform/helion/admin/cluster/1.0autoscaling.dita"/>
+  <topicref href="devplatform/helion/admin/1.0index.dita"/>
+  <topicref href="devplatform/helion/1.0index.dita"/>
+ </topicref> 
+ <!--permalink: /als/v1/--> 
+ <!--permalink: /als/v1/admin/--> 
+ <!--permalink: /als/v1/admin/best-practices/--> 
+ <!--permalink: /als/v1/admin/best-practices/logging-examples/--> 
+ <!--permalink: /als/v1/admin/cluster/--> 
+ <!--permalink: /als/v1/admin/cluster/autoscaling/--> 
+ <!--permalink: /als/v1/admin/cluster/cloud-init/--> 
+ <!--permalink: /als/v1/admin/cluster/external-db/--> 
+ <!--permalink: /als/v1/admin/cluster/harbor/--> 
+ <!--permalink: /als/v1/admin/console/--> 
+ <!--permalink: /als/v1/admin/console/app-store/--> 
+ <!--permalink: /als/v1/admin/console/customize/--> 
+ <!--permalink: /als/v1/admin/reference/add-service/--> 
+ <!--permalink: /als/v1/admin/reference/architecture/--> 
+ <!--permalink: /als/v1/admin/reference/groups/--> 
+ <!--permalink: /als/v1/admin/reference/kato-ref/--> 
+ <!--permalink: /als/v1/admin/reference/known-issues/--> 
+ <!--permalink: /als/v1/admin/reference/troubleshoot/--> 
+ <!--permalink: /als/v1/admin/server/--> 
+ <!--permalink: /als/v1/admin/server/aok/--> 
+ <!--permalink: /als/v1/admin/server/configuration/--> 
+ <!--permalink: /als/v1/admin/server/docker/--> 
+ <!--permalink: /als/v1/admin/server/logging/--> 
+ <!--permalink: /als/v1/admin/server/operations/--> 
+ <!--permalink: /als/v1/admin/server/router/--> 
+ <!--permalink: /als/v1/admin/server/upgrade/--> 
+ <!--permalink: /als/v1/user/--> 
+ <!--permalink: /als/v1/user/client/--> 
+ <!--permalink: /als/v1/user/console/--> 
+ <!--permalink: /als/v1/user/deploy/--> 
+ <!--permalink: /als/v1/user/deploy/app-debug/--> 
+ <!--permalink: /als/v1/user/deploy/app-logs/--> 
+ <!--permalink: /als/v1/user/deploy/buildpack/--> 
+ <!--permalink: /als/v1/user/deploy/languages/clojure/--> 
+ <!--permalink: /als/v1/user/deploy/languages/go/--> 
+ <!--permalink: /als/v1/user/deploy/languages/java/--> 
+ <!--permalink: /als/v1/user/deploy/languages/node/--> 
+ <!--permalink: /als/v1/user/deploy/languages/php/--> 
+ <!--permalink: /als/v1/user/deploy/languages/ruby/--> 
+ <!--permalink: /als/v1/user/deploy/manifestyml/--> 
+ <!--permalink: /als/v1/user/deploy/newrelic/--> 
+ <!--permalink: /als/v1/user/deploy/orgs-spaces/--> 
+ <!--permalink: /als/v1/user/deploy/other-frameworks/--> 
+ <!--permalink: /als/v1/user/deploy/stackatoyml/--> 
+ <!--permalink: /als/v1/user/quick-start/--> 
+ <!--permalink: /als/v1/user/reference/client-ref/--> 
+ <!--permalink: /als/v1/user/reference/environment/--> 
+ <!--permalink: /als/v1/user/reference/glossary/--> 
+ <!--permalink: /als/v1/user/reference/troubleshoot/--> 
+ <!--permalink: /als/v1/user/services/data-services/--> 
+ <!--permalink: /als/v1/user/services/filesystem/--> 
+ <!--permalink: /als/v1/user/services/memcached/--> 
+ <!--permalink: /als/v1/user/services/port-service/--> 
+ <!--permalink: /als/v1/user/services/user-provided/--> 
  <!--permalink: /api/copyright/--> <topicref href="api.copyright.dita"/> 
  <!--permalink: /automation/--> <topicref href="automation/csa.index.dita"/> 
  <!--permalink: /cloudos/--> <topicref href="cloudos/index.dita"/> 
@@ -89,12 +144,13 @@
  <!--permalink: /cloudos/install/customize-network-connections/--> <topicref href="cloudos/install.customize-network-connections.dita"/> 
  <!--permalink: /cloudos/install/customize-network-settings/--> <topicref href="cloudos/install.customize-network-settings.dita"/> 
  <!--permalink: /cloudos/install/customize-server-types/--> <topicref href="cloudos/install.customize-server-types.dita"/> 
- <!--permalink: /cloudos/install/deploy-swift/--> <topicref href="cloudos/install.deploy-swift.dita"/> 
+ <!--permalink: /cloudos/install/deploy-swift/--> <topicref href="cloudos/install.deploy-swift.dita"/>
+ <topicref href="cloudos/install.overview.dita"/> 
  <!--permalink: /cloudos/install/hot-fixes/--> <topicref href="cloudos/install.hotfixes.dita"/> 
  <!--permalink: /cloudos/install/install-modules-reference/--> <topicref href="cloudos/install.install-modules-reference.dita"/> 
  <!--permalink: /cloudos/install/launch-admin-dashboard/--> <topicref href="cloudos/install.launch-admin-dashboard.dita"/> 
  <!--permalink: /cloudos/install/license/--> <topicref href="cloudos/install.license.dita"/> 
- <!--permalink: /cloudos/install/overview/--> <topicref href="cloudos/install.overview.dita"/> 
+ <!--permalink: /cloudos/install/overview/--> 
  <!--permalink: /cloudos/install/setup-swift/--> <topicref href="cloudos/install.setup-swift.dita"/> 
  <!--permalink: /cloudos/install/updates-and-extensions/--> <topicref href="cloudos/install.updates-and-extensions.dita"/> 
  <!--permalink: /cloudos/manage/--> <topicref href="cloudos/manage.dita"/> 
